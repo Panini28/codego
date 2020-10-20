@@ -9,4 +9,6 @@ sudo apt-get install figlet
 pip2 install termcolor
 python2 codego.py
 
-selamat mecoba...!!! silahkan komen di blogsaya jika ada yang ingindi tanyakan
+selamat mecoba...!!! silahkan komen di blogsaya jika ada yang ingin di tanyakan
+https://anak-tik.blogspot.com
+copyright rezky ananda 2020
